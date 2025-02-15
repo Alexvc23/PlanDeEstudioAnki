@@ -1,0 +1,13 @@
+What is a Common Table Expression (CTE) in SQL?:A temporary, named result set used to simplify complex queries.
+How are Common Table Expressions (CTEs) defined in SQL?:They are defined using the WITH clause.
+Which operations can use a CTE in SQL?:SELECT, INSERT, UPDATE, and DELETE.
+Why might you choose a CTE over a subquery in SQL?:CTEs improve query readability, modularity, and maintainability.
+What does atomicity ensure in a database transaction?:All operations within the transaction complete successfully or none are applied.
+What is a transaction in SQL Server?:A sequence of SQL commands executed as a single, atomic unit of work.
+What is the primary purpose of transactions in SQL Server?:To ensure that either all operations are committed or none are applied.
+How do transactions help maintain database integrity?:They roll back all operations if any part of the transaction fails.
+What happens when an error occurs during a transaction in SQL Server?:The entire transaction is rolled back.
+How do transactions ensure consistency in SQL Server?:By committing only complete sets of operations or reverting to the previous state.
+What additional safeguards do transactions provide?:They ensure atomicity, consistency, isolation, and durability (ACID).
+What are transaction isolation levels in SQL Server?:Settings that control locking and row versioning to manage concurrent operations.
+What is the importance of durability in a transaction?:It guarantees that once a transaction is committed, its changes persist even after a system failure.
