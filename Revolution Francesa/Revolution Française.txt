@@ -1,0 +1,43 @@
+#separator:tab
+#html:false
+#type:cloze
+
+L'ouverture des États généraux le {{c1::5 mai 1789}} marque le début de la Révolution, lorsque {{c2::Louis XVI}} convoque à Versailles les représentants pour tenter de résoudre {{c3::une crise financière}}.
+
+Le {{c1::Serment du Jeu de Paume}} a lieu le {{c2::20 juin 1789}}, où les députés du tiers état jurent de ne pas se séparer avant d'avoir {{c3::établi une constitution pour la France}}.
+
+La {{c1::proclamation de l'Assemblée nationale}} le {{c2::17 juin 1789}} est l'acte par lequel {{c3::les députés du tiers état affirment leur pouvoir légitime}} contre l'autorité royale.
+
+La {{c1::prise de la Bastille}} le {{c2::14 juillet 1789}} représente {{c3::le premier soulèvement populaire victorieux contre l'absolutisme}}, devenant plus tard la fête nationale française.
+
+La {{c1::Déclaration des Droits de l'Homme et du Citoyen}} adoptée le {{c2::26 août 1789}} affirme les principes de {{c3::liberté, égalité, propriété, sûreté et résistance à l'oppression}}.
+
+La {{c1::fuite de Varennes}} les {{c2::20-21 juin 1791}} est la tentative échouée de {{c3::Louis XVI et sa famille de quitter la France}}, qui accélère la radicalisation de la Révolution.
+
+La {{c1::prise du château des Tuileries}} le {{c2::10 août 1792}} marque {{c3::la chute définitive de la monarchie constitutionnelle}} et le passage à une phase révolutionnaire plus radicale.
+
+La {{c1::Première République}} est proclamée le {{c2::22 septembre 1792}} par {{c3::la Convention nationale}}, mettant officiellement fin à la monarchie en France.
+
+{{c1::Louis XVI}} est guillotiné le {{c2::21 janvier 1793}} après avoir été condamné pour {{c3::haute trahison}} par la Convention nationale.
+
+La période de {{c1::la Terreur}} débute le {{c2::5 septembre 1793}} avec l'établissement d'un {{c3::gouvernement révolutionnaire dirigé par le Comité de salut public}} pour contrer les menaces intérieures et extérieures.
+
+Le {{c1::coup d'État de Napoléon Bonaparte}} le {{c2::9 novembre 1799 (18 Brumaire)}} met fin à la période révolutionnaire et inaugure {{c3::le Consulat}}, ouvrant la voie à l'Empire.
+
+La chronologie des régimes politiques pendant la Révolution française est : {{c1::Monarchie absolue → Monarchie constitutionnelle (1789-1792) → Première République (Convention nationale 1792-1795, Directoire 1795-1799) → Consulat (1799-1804) → Empire (1804-1814/1815)}}.
+
+Les principales causes de la Révolution française incluent {{c1::la crise financière de l'État}}, {{c2::les inégalités sociales et fiscales}}, et {{c3::l'influence des idées des Lumières}}.
+
+La Révolution française a transformé la société par {{c1::l'abolition des privilèges et du système féodal}}, {{c2::la fin de la société d'ordres}}, et {{c3::l'instauration de l'égalité civile}}.
+
+La devise nationale française issue de la Révolution est {{c1::Liberté, Égalité, Fraternité}}, symbolisant les valeurs fondamentales du nouveau régime.
+
+Entre la chute de la royauté et l'avènement de l'Empire, la France a connu trois régimes républicains : {{c1::la Convention nationale (1792-1795)}}, {{c2::le Directoire (1795-1799)}} et {{c3::le Consulat (1799-1804)}}.
+
+Durant la Terreur (1793-1794), le pouvoir est principalement exercé par {{c1::le Comité de salut public}} dirigé par {{c2::Robespierre}}, période qui prend fin avec {{c3::la chute de Robespierre le 9 thermidor an II (27 juillet 1794)}}.
+
+La Constitution civile du clergé adoptée le {{c1::12 juillet 1790}} provoque {{c2::une profonde division au sein de l'Église}} et entraîne {{c3::une crise religieuse majeure}} en France.
+
+Le système métrique décimal, toujours utilisé aujourd'hui, a été instauré pendant {{c1::la Révolution française}} par {{c2::l'Académie des sciences}} en {{c3::1795}} pour unifier et rationaliser les mesures.
+
+La Révolution française se termine officiellement avec {{c1::le coup d'État du 18 brumaire}} qui porte {{c2::Napoléon Bonaparte}} au pouvoir en tant que {{c3::Premier Consul}}.

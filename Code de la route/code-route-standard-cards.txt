@@ -1,0 +1,68 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Code de la Route
+
+"<img src=""img1077556374052103684.jpg"">"	"<img src=""img7866865529859488104.jpg"">"
+
+Que signalent les panneaux de danger triangulaires à fond blanc ?	Les panneaux de danger annoncent un danger réel (risque de vent latéral, traversée de piétons, etc.). Ils sont implantés en amont pour permettre aux usagers d'adapter leur vitesse. Ce sont des signaux avancés.
+
+À quelle distance sont implantés les panneaux de danger en agglomération ?	En agglomération, les panneaux de danger sont implantés à environ 50 mètres du danger. Ils peuvent être plus proches en raison du terrain. Ne pas attendre de voir le danger pour ralentir.
+
+À quelle distance sont implantés les panneaux de danger hors agglomération ?	Hors agglomération, les panneaux de danger sont implantés à environ 150 mètres du danger. Ne pas attendre de voir le danger pour ralentir.
+
+Quelle est la différence entre un panonceau de distance et un panonceau d'étendue ?	Le panonceau de distance indique la distance jusqu'au danger, tandis que le panonceau d'étendue indique l'étendue du danger. Le panonceau d'étendue se reconnaît aux deux flèches situées de chaque côté.
+
+Quel panneau triangulaire n'est pas un panneau avancé ?	Le panneau qui informe que la rue ou route est désormais à double sens de circulation. Il est implanté là où commence ce danger.
+
+À quoi reconnaît-on les panneaux de danger temporaires ?	Les panneaux de danger temporaires sont à fond jaune. Ils sont implantés et signifient de la même manière que ceux à fond blanc.
+
+Que signalent les panneaux lumineux de danger et à quelle distance sont-ils généralement implantés ?	Les panneaux lumineux annoncent des dangers réels, pas potentiels. Ils sont généralement implantés à plusieurs centaines de mètres, voire plusieurs kilomètres en amont du danger.
+
+Dans quel ordre faut-il régler les équipements de conduite avant de prendre la route ?	Siège, dossier, rétroviseurs, ceinture.
+
+Comment convertir rapidement une vitesse de km/h en m/s ?	Prendre la dizaine de la vitesse en km/h, la multiplier par 3 et arrondir au multiple de 5 le plus proche. Exemple : 90 km/h -> 9 x 3 = 27 -> 25 m/s.
+
+Comment calculer la distance de sécurité minimale entre deux véhicules ?	Convertir la vitesse de km/h en m/s, puis multiplier par 2 pour obtenir la distance minimale en mètres. Exemple : à 90 km/h (25 m/s), la distance de sécurité minimale est de 25 m/s x 2 = 50 m.
+
+Dans quelles conditions peut-on utiliser les feux de brouillard avant et arrière ?	Feux de brouillard avant : brouillard, pluie forte, neige, routes sinueuses hors agglomération. Feux de brouillard arrière : uniquement en cas de brouillard ou neige dense avec faible visibilité.
+
+Combien de points possède un conducteur novice à l'obtention de son permis de conduire en France ?	6 points.
+
+Combien de points supplémentaires sont ajoutés après un an sans infractions pour un conducteur ayant suivi la formation AAC ?	3 points.
+
+Combien de points supplémentaires sont ajoutés après un an sans infractions pour un conducteur ayant suivi la formation traditionnelle ?	2 points.
+
+Que signifie l'acronyme AAC ?	Apprentissage Anticipé de la Conduite.
+
+Quel est le rôle principal de l'E.S.P. dans un véhicule ?	Réduire le risque de dérapage.
+
+Quelle est la différence principale entre l'E.S.P. et l'ABS ?	L'E.S.P. (Electronic Stability Program) gère la stabilité globale du véhicule, tandis que l'ABS (Anti-lock Braking System) évite uniquement le blocage des roues lors du freinage.
+
+Quels sont les éléments de base à vérifier avant de prendre un véhicule ?	Pneus (pression et usure), feux (phares, clignotants, feux de freinage, feux arrière), niveaux (huile moteur, liquide de refroidissement, liquide lave-glace).
+
+Quels équipements de sécurité obligatoires doit-on vérifier avant de prendre la route ?	Éthylotest (si obligatoire), gilet haute visibilité, triangle de présignalisation.
+
+Quels documents doit-on avoir dans son véhicule lors de la conduite ?	Attestation d'assurance à jour, carte grise (certificat d'immatriculation), vignette du contrôle technique (si le véhicule a plus de 4 ans).
+
+Comment vérifier la validité de la vignette de contrôle technique ?	Vérifier qu'elle soit correctement collée sur le pare-brise et que la date indiquée soit toujours valide.
+
+Pourquoi est-il important de vérifier l'état du véhicule et les documents avant de prendre la route ?	Pour éviter les problèmes légaux, garantir la sécurité de conduite et respecter les obligations réglementaires.
+
+Combien de temps faut-il prévoir pour une vérification de base avant de prendre la route ?	Environ 2 minutes.
+
+Quels détails pratiques faut-il vérifier avant d'utiliser une voiture empruntée ?	Vérifier le niveau de carburant, noter les dommages ou anomalies visibles (prendre des photos si nécessaire), poser des questions au propriétaire en cas de doute.
+
+Comment alerter les secours depuis un téléphone portable en France ?	Pour alerter les secours depuis un téléphone portable, composez le 15 (SAMU), le 17 (Police/Gendarmerie) ou le 18 (Pompiers).
+
+Quel est le numéro d'urgence européen et quels sont ses avantages ?	Le 112 est le numéro d'urgence à privilégier dans toute l'Europe. Il est gratuit et accessible même avec un téléphone verrouillé, un forfait épuisé ou en cas de panne de réseau.
+
+Quelles vérifications de sécurité actives doit-on effectuer avant de démarrer ?	Vérifier que la pédale de frein est ferme (ne s'enfonce pas sans résistance), que le frein à main est efficace, et que la direction ne présente pas de jeu anormal.
+
+À quelle fréquence doit-on vérifier la pression des pneus ?	Au moins une fois par mois et avant chaque long trajet.
+
+Quelles sont les différentes catégories de panneaux routiers en France et comment les reconnaître ?	Panneaux de danger (triangulaires), panneaux d'interdiction (ronds à bordure rouge), panneaux d'obligation (ronds à fond bleu), panneaux d'indication (carrés ou rectangulaires à fond bleu), panneaux de direction (rectangulaires).
+
+Quelle est la règle de priorité à droite et dans quels cas s'applique-t-elle ?	La règle de priorité à droite s'applique lorsqu'aucune signalisation particulière n'est présente. Elle impose de céder le passage aux véhicules venant de la droite à une intersection.
+
+Quelle est la différence entre un panneau "Stop" et un panneau "Cédez le passage" ?	Le panneau "Stop" impose un arrêt obligatoire, même en l'absence de circulation, tandis que le panneau "Cédez le passage" impose seulement de ralentir et de céder le passage si nécessaire, sans obligation d'arrêt complet.

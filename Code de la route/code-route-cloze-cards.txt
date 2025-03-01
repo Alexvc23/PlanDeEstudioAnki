@@ -1,0 +1,44 @@
+#separator:tab
+#html:true
+#notetype:Cloze
+#deck:Code de la Route
+
+Implantation des panneaux triangulaires : {{c1::En agglomération}}, ils sont placés à environ {{c2::50 mètres}} du danger, tandis que {{c3::hors agglomération}}, ils sont placés à environ {{c4::150 mètres}} du danger.	
+
+Les {{c1::panonceaux de distance}} indiquent la {{c2::distance jusqu'au danger}}, tandis que les {{c3::panonceaux d'étendue}} indiquent la {{c4::longueur de la zone dangereuse}} et se reconnaissent par {{c5::deux flèches situées de chaque côté}}.	
+
+Avant de démarrer, réglez vos équipements de conduite dans cet ordre : {{c1::siège}}, {{c2::dossier}}, {{c3::rétroviseurs}}, {{c4::ceinture}}.	
+
+Pour convertir une vitesse de km/h en m/s : prendre la {{c1::dizaine}} de la vitesse en km/h, la multiplier par {{c2::3}} et {{c3::arrondir au multiple de 5 le plus proche}}. Exemple : 90 km/h -> 9 x 3 = 27 -> 25 m/s.	
+
+La distance de sécurité minimale se calcule en convertissant la vitesse en {{c1::m/s}}, puis en multipliant par {{c2::2}}. À 90 km/h (25 m/s), cette distance est de {{c3::50 mètres}}.	
+
+Utilisation des feux de brouillard : les feux {{c1::avant}} peuvent être utilisés en cas de {{c2::brouillard, pluie forte, neige}} ou sur {{c3::routes sinueuses hors agglomération}}. Les feux {{c4::arrière}} sont réservés aux cas de {{c5::brouillard ou neige dense avec faible visibilité}}.	
+
+Système de points du permis pour un conducteur novice : {{c1::6 points}} initialement, puis après un an sans infractions, {{c2::+3 points}} en formation AAC ou {{c3::+2 points}} en formation traditionnelle.	
+
+Systèmes de sécurité automobile : l'{{c1::E.S.P.}} (Electronic Stability Program) gère la {{c2::stabilité globale du véhicule}}, tandis que l'{{c3::ABS}} (Anti-lock Braking System) évite le {{c4::blocage des roues lors du freinage}}.	
+
+Documents et équipements obligatoires : {{c1::attestation d'assurance}}, {{c2::carte grise}}, {{c3::vignette du contrôle technique}} (véhicule > 4 ans), {{c4::éthylotest}} (si obligatoire), {{c5::gilet haute visibilité}} et {{c6::triangle de présignalisation}}.	
+
+Numéros d'urgence en France : {{c1::15}} pour le {{c2::SAMU}}, {{c3::17}} pour la {{c4::Police/Gendarmerie}}, {{c5::18}} pour les {{c6::Pompiers}}.	
+
+Le numéro d'urgence {{c1::112}} est utilisable dans {{c2::toute l'Europe}} et fonctionne même avec un téléphone {{c3::verrouillé}}, un forfait {{c4::épuisé}} ou en cas de panne de {{c5::réseau}}.	
+
+Contrôle des pneus : vérifier la pression {{c1::au moins une fois par mois}} et {{c2::avant chaque long trajet}}. Un pneu sous-gonflé augmente les risques de {{c3::crevaison}}, {{c4::éclatement}} et {{c5::surconsommation de carburant}}.	
+
+Les catégories de panneaux en France : {{c1::danger}} (forme {{c2::triangulaire}}), {{c3::interdiction}} (forme {{c4::ronde à bordure rouge}}), {{c5::obligation}} (forme {{c6::ronde à fond bleu}}), {{c7::indication}} (forme {{c8::carrée ou rectangulaire à fond bleu}}).	
+
+Manoeuvres particulières : lors d'un {{c1::dépassement}}, il faut maintenir un écart {{c2::latéral suffisant}} et ne pas se rabattre trop tôt. Pour un {{c3::demi-tour}}, s'assurer d'une {{c4::visibilité suffisante}} et ne jamais le faire dans un {{c5::virage}} ou à proximité d'un {{c6::sommet de côte}}.	
+
+Alcoolémie au volant : le taux légal maximal est de {{c1::0,5 g/l}} pour les conducteurs confirmés et {{c2::0,2 g/l}} pour les conducteurs novices. Au-delà de {{c3::0,8 g/l}}, c'est un {{c4::délit}} passible d'une {{c5::amende pouvant aller jusqu'à 4500€}} et d'une {{c6::suspension de permis}}.	
+
+Stationnement interdit : il est interdit de stationner à moins de {{c1::5 mètres}} d'un {{c2::passage piéton}}, à moins de {{c3::10 mètres}} d'un {{c4::feu tricolore}} ou d'un {{c5::panneau de signalisation}}, et à moins de {{c6::15 mètres}} d'un {{c7::arrêt de bus}}.	
+
+Panne ou accident sur autoroute : se placer sur la {{c1::bande d'arrêt d'urgence}}, allumer les {{c2::feux de détresse}}, faire descendre les passagers côté {{c3::droit}}, placer le {{c4::triangle}} à {{c5::au moins 200 mètres}} en amont, et téléphoner depuis une {{c6::borne orange}} ou composer le {{c7::112}}.	
+
+Les distances d'arrêt : la distance d'arrêt est égale à la somme de la {{c1::distance de réaction}} (environ {{c2::1 seconde}} de trajet) et de la {{c3::distance de freinage}} (qui augmente avec le {{c4::carré de la vitesse}} et varie selon l'{{c5::état de la route}} et des {{c6::freins}}).	
+
+Conduite de nuit : adapter sa vitesse à la {{c1::visibilité}} offerte par les feux, éviter de regarder les {{c2::phares des véhicules venant en face}}, utiliser les {{c3::feux de route}} uniquement lorsqu'on est {{c4::seul}}, et les {{c5::baisser 150 mètres}} avant de croiser un autre véhicule.	
+
+Conduite sur route mouillée : augmenter les {{c1::distances de sécurité}}, réduire sa {{c2::vitesse}}, éviter les {{c3::coups de volant brusques}} et les {{c4::freinages brutaux}}, être attentif aux risques d'{{c5::aquaplanage}} et privilégier le {{c6::frein moteur}}.
