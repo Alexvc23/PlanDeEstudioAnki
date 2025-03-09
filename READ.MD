@@ -4,6 +4,17 @@
 
 Ce document explique comment créer, formater et utiliser efficacement les cartes mémoire Anki pour optimiser votre apprentissage. Anki est un système de répétition espacée qui vous aide à mémoriser des informations de manière efficace en vous présentant les cartes juste avant que vous ne les oubliez.
 
+## Pourquoi utiliser Anki pour apprendre ?
+
+Anki est un outil puissant pour l'apprentissage de nouvelles connaissances pour plusieurs raisons :
+
+- **Répétition espacée scientifique** : Anki utilise un algorithme qui détermine le moment optimal pour revoir chaque carte, maximisant la rétention à long terme tout en minimisant le temps d'étude.
+- **Apprentissage actif** : Force votre cerveau à récupérer activement l'information, renforçant les connexions neuronales.
+- **Personnalisation** : Adaptable à n'importe quel sujet d'étude, des langues aux sciences en passant par la médecine ou la programmation.
+- **Efficacité prouvée** : Des recherches en sciences cognitives montrent que la répétition espacée est jusqu'à 74% plus efficace que les méthodes d'étude traditionnelles.
+- **Portabilité** : Disponible sur tous les appareils, permettant d'étudier n'importe où et n'importe quand.
+- **Mesure des progrès** : Fournit des statistiques détaillées sur votre apprentissage et votre rétention.
+
 ## Table des matières
 
 1. [Formats de cartes](#formats-de-cartes)
@@ -69,9 +80,9 @@ Question/Texte    Réponse
 2. Dans Anki, allez dans Fichier → Importer
 3. Sélectionnez votre fichier texte
 4. Vérifiez que les paramètres d'importation correspondent à votre fichier:
-   - Type de note correct (Basic ou Cloze)
-   - Séparateur correct (tab)
-   - Option "Permettre le HTML dans les champs" cochée si vous utilisez du HTML
+  - Type de note correct (Basic ou Cloze)
+  - Séparateur correct (tab)
+  - Option "Permettre le HTML dans les champs" cochée si vous utilisez du HTML
 5. Cliquez sur Importer
 
 ### Gestion des erreurs courantes

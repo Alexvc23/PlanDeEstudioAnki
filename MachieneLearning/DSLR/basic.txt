@@ -1,0 +1,38 @@
+#separator:tab
+#html:true
+#notetype:Basic
+
+What does the "Count" statistic represent in a dataset?	Total non-null entries per feature. Useful for spotting missing data for later inputing or data removal.
+What does the "Mean" represent in a dataset?	The average value. Helps determine the typical level of the data.
+What does "Standard Deviation" measure in a dataset?	Measures how much data varies around the mean. High values indicate high variability (most of the values not close to the mean).
+What is the "Min" value in a dataset summary?	The lowest value observed. Useful for understanding the data's lower limit.
+What does the "First Quartile (25%)" represent?	The value below which 25% of the data fall. Highlights the lower spread of data.
+What is the "Median (50%)" in a dataset?	The middle value. A robust measure that shows the central point without being skewed by outliers.
+What does the "Third Quartile (75%)" indicate?	The value below which 75% of the data lie. Indicates the upper spread of the data.
+What is the "Max" value in a dataset summary?	The highest value recorded. Shows the upper boundary and helps spot extreme values.
+What does the "Interquartile Range (IQR)" measure?	The difference between the 25th and 75th percentiles. Shows the spread of the middle 50% of data and identifies values that are too far from typical, making it easier to spot errors or anomalies.
+Why is the Median often preferred over the Mean?	The Median is a robust measure that shows the central point without being skewed by outliers.
+What purpose does the IQR serve in data analysis?	It shows the spread of the middle 50% of data and identifies values that are too far from typical, making it easier to spot errors or anomalies.
+How can the relationship between Mean and Median help identify skew in a dataset?	If the Mean is greater than the Median, the distribution is likely right-skewed. If the Mean is less than the Median, the distribution is likely left-skewed. If they're approximately equal, the distribution is likely symmetric.
+What does it mean when the Count for a feature is less than the total number of rows?	It indicates that the feature has missing values that may need to be addressed through imputation or removal.
+How can Standard Deviation and IQR be used together in outlier detection?	Standard Deviation can identify outliers in normally distributed data (values beyond ±3 SD), while IQR works better for skewed data (values below Q1-1.5×IQR or above Q3+1.5×IQR).
+In what scenario would you pay more attention to the Median than the Mean?	When dealing with skewed data or data with outliers, such as income distributions or housing prices.
+How would you use the Min and Max values in initial data exploration?	To check for data entry errors, understand the range of values, and identify potential outliers that need further investigation.
+Why is the Count statistic important before performing analysis?	It helps identify missing values that could affect the analysis results and need to be addressed through imputation or removal.
+How can the IQR help improve the quality of your dataset?	By using it to identify outliers (values below Q1-1.5×IQR or above Q3+1.5×IQR) that might represent errors or anomalies requiring further investigation.
+What is Logistic Regression?	A method used for classification. Instead of predicting a continuous output like linear regression, it predicts the probability of an instance belonging to a certain class.
+What is the One-vs-All Strategy in classification?	Since there are more than two classes (like the four houses), you train separate logistic regressions—each one distinguishing one house from all the others.
+What is Gradient Descent?	An optimization technique used to minimize the error (or cost) by adjusting model weights iteratively.
+What is a Classifier?	A model that categorizes data into specific classes.
+What is a Class in machine learning?	In this context, a category or group that data can be classified into (like Hogwarts houses: Gryffindor, Hufflepuff, Ravenclaw, Slytherin).
+What are Weights in a machine learning model?	Parameters in your logistic regression model that are adjusted during training.
+What is a Loss (Cost) Function?	A formula that measures how far off the model's predictions are from the actual results.
+What is Training Data?	The dataset used to teach your model how to classify the inputs.
+What is Prediction Data?	New data that the trained model uses to make predictions.
+How does Logistic Regression differ from Linear Regression?	Linear Regression predicts continuous values, while Logistic Regression predicts the probability of an instance belonging to a particular class (a value between 0 and 1).
+Why do we need the One-vs-All Strategy?	It allows us to use binary classifiers (like logistic regression) to solve multi-class classification problems by training one classifier per class.
+What is the goal of Gradient Descent?	To find the optimal values for the model's parameters (weights) by iteratively minimizing the cost function.
+What are the potential issues with imbalanced classes in classification?	Models may become biased toward the majority class, leading to poor performance on minority classes. Techniques like oversampling, undersampling, or adjusted class weights may be needed.
+How does regularization help in logistic regression?	Regularization helps prevent overfitting by adding a penalty term to the cost function that discourages large weight values, leading to a simpler model that generalizes better to new data.
+What is the sigmoid function's role in logistic regression?	The sigmoid function transforms the linear combination of inputs and weights into a probability value between 0 and 1, allowing the model to make binary predictions.
+How can you evaluate the performance of a classification model?	Through metrics such as accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC, each providing different insights into model performance.

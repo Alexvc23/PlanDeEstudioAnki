@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#notetype:Cloze
+
+{{c1::Count}} represents the total non-null entries per feature in a dataset.	
+The {{c1::Mean}} is the average value that helps determine the {{c2::typical level of the data}}.	
+{{c1::Standard Deviation}} measures {{c2::how much data varies around the mean}}. High values indicate {{c3::high variability}}.	
+The {{c1::Min}} represents the {{c2::lowest value observed}} in a dataset.	
+The {{c1::First Quartile (25%)}} is the value below which {{c2::25% of the data fall}}. It highlights the {{c3::lower spread of data}}.	
+The {{c1::Median (50%)}} is the middle value that {{c2::shows the central point without being skewed by outliers}}.	
+The {{c1::Third Quartile (75%)}} is the value below which {{c2::75% of the data lie}}. It indicates the {{c3::upper spread of the data}}.	
+The {{c1::Max}} is the {{c2::highest value recorded}} in a dataset.	
+The {{c1::Interquartile Range (IQR)}} is the difference between the {{c2::25th and 75th percentiles}}. It shows the {{c3::spread of the middle 50% of data}} and helps {{c4::identify values that are too far from typical}}.	
+When dealing with data that has outliers, the {{c1::Median}} is preferred over the {{c2::Mean}} because it {{c3::is not skewed by extreme values}}.	
+To identify potential errors or anomalies in a dataset, the {{c1::IQR (Interquartile Range)}} is particularly useful because it {{c2::shows values that are too far from typical}}.	
+In a right-skewed distribution, the {{c1::Mean}} is typically {{c2::greater than}} the {{c3::Median}}.	
+When using the IQR method for outlier detection, values below {{c1::Q1 - 1.5 × IQR}} or above {{c2::Q3 + 1.5 × IQR}} are considered {{c3::potential outliers}}.	
+The {{c1::Standard Deviation}} is more sensitive to {{c2::outliers}} than the {{c3::IQR}} because it considers {{c4::all data points equally}}.	
+{{c1::Logistic Regression}} is a method used for {{c2::classification}} that predicts the {{c3::probability of an instance belonging to a certain class}}.	
+The {{c1::One-vs-All Strategy}} involves training {{c2::separate logistic regressions}}—each one distinguishing {{c3::one class from all the others}}.	
+{{c1::Gradient Descent}} is an {{c2::optimization technique}} used to {{c3::minimize the error (or cost)}} by {{c4::adjusting model weights iteratively}}.	
+A {{c1::Classifier}} is a model that {{c2::categorizes data into specific classes}}.	
+In machine learning, a {{c1::Class}} refers to a {{c2::category or group}} that data can be {{c3::classified into}}.	
+{{c1::Weights}} are {{c2::parameters}} in a machine learning model that are {{c3::adjusted during training}}.	
+The {{c1::Loss (Cost) Function}} {{c2::measures how far off}} the model's predictions are from {{c3::the actual results}}.	
+{{c1::Training Data}} is the dataset used to {{c2::teach your model}} how to classify the inputs.	
+{{c1::Prediction Data}} is {{c2::new data}} that the {{c3::trained model}} uses to make predictions.	
+While Linear Regression predicts {{c1::continuous values}}, Logistic Regression predicts the {{c2::probability}} of an instance belonging to a {{c3::particular class}}.	
+The {{c1::sigmoid function}} transforms the {{c2::linear combination of inputs and weights}} into a {{c3::probability value between 0 and 1}} in logistic regression.	
+{{c1::Regularization}} helps prevent {{c2::overfitting}} by adding a {{c3::penalty term}} to the cost function that discourages {{c4::large weight values}}.	
+In a {{c1::confusion matrix}}, {{c2::true positives}} are instances correctly predicted as positive, while {{c3::false negatives}} are positive instances incorrectly predicted as negative.	
+The {{c1::learning rate}} in gradient descent determines how {{c2::large the steps}} are when updating the weights. If it's {{c3::too high}}, the algorithm might {{c4::overshoot the minimum}}; if it's {{c5::too low}}, convergence will be {{c6::slow}}.
