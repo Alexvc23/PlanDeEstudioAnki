@@ -15,7 +15,7 @@ La distance de sécurité minimale se calcule en convertissant la vitesse en {{c
 
 Utilisation des feux de brouillard : les feux {{c1::avant}} peuvent être utilisés en cas de {{c2::brouillard, pluie forte, neige}} ou sur {{c3::routes sinueuses hors agglomération}}. Les feux {{c4::arrière}} sont réservés aux cas de {{c5::brouillard ou neige dense avec faible visibilité}}.	
 
-Système de points du permis pour un conducteur novice : {{c1::6 points}} initialement, puis après un an sans infractions, {{c2::+3 points}} en formation AAC ou {{c3::+2 points}} en formation traditionnelle.	
+Système de points du permis pour un conducteur novice : {{c1::6 points}} initialement, puis après un an sans infractions, {{c2::3 points}} en formation AAC ou {{c3::2 points}} en formation traditionnelle.	
 
 Systèmes de sécurité automobile : l'{{c1::E.S.P.}} (Electronic Stability Program) gère la {{c2::stabilité globale du véhicule}}, tandis que l'{{c3::ABS}} (Anti-lock Braking System) évite le {{c4::blocage des roues lors du freinage}}.	
 
