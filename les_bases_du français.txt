@@ -1,0 +1,106 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:6
+J`vu[{DGV,	Basic	les_bases_du français	le	el (masculino singular)	
+"taXVyr##x2"	Basic	les_bases_du français	la	la (femenino singular)	
+I1pmNQDXb[	Basic	les_bases_du français	l'	el / la (delante de vocal o h muda)<br><br>ejemplo:&nbsp;l'homme est fort	
+hi,)NAC06[	Basic	les_bases_du français	les	los / las (plural)	
+uY$W14?9*g	Basic	les_bases_du français	un	un [sound:rec1748711582.mp3](masculino singular)	
+rp6I|?xcp1	Basic	les_bases_du français	une	una&nbsp;[sound:rec1748711432.mp3] (femenino singular)	
+ib$G.sP&QU	Basic	les_bases_du français	des	Para indicar que la palabra del frente es plural, ejemplo:<br>[sound:rec1748712071.mp3]<br>[sound:rec1748712204.mp3]des voitures (carros), [sound:rec1748712213.mp3]des maisons (casas), [sound:rec1748712243.mp3]des animaux (animales)&nbsp;	
+wp]I@hPFeK	Basic	les_bases_du français	de	de / desde<br><br>ejemplo: Je viens de Paris. (Vengo de París.)	
+uj,4c?^&5I	Basic	les_bases_du français	à	a / en	
+I)j,|cX-J6	Basic	les_bases_du français	en	en	
+OLGb`ry2s$	Basic	les_bases_du français	pour	para / por	
+"xGFU0>*a#C"	Basic	les_bases_du français	avec	con	
+l8eIu,Vn-y	Basic	les_bases_du français	sans	sin	
+o<{D`cu`qD	Basic	les_bases_du français	sur	sobre / en (encima de)	
+J*cy.7~Ju3	Basic	les_bases_du français	dans	en / dentro de	
+A0gS~3NF}A	Basic	les_bases_du français	et	y	
+PYN=[x--N$	Basic	les_bases_du français	ou	o	
+x.]Lu0m>z$	Basic	les_bases_du français	mais	pero	
+Pe~^tLLlK6	Basic	les_bases_du français	"je / j&#x27;"	yo	
+L(Gny+pBCY	Basic	les_bases_du français	tu	tú	
+nOr~&0n&O8	Basic	les_bases_du français	il	él	
+cKl<lW|-ib	Basic	les_bases_du français	elle	ella	
+v~xS70_lM0	Basic	les_bases_du français	on	se / uno / nosotros (informal)	
+yXKChZPdfS	Basic	les_bases_du français	nous	nosotros / nosotras	
+QDjS[lD?z1	Basic	les_bases_du français	vous	ustedes / vosotros / vosotras / usted (formal)	
+bET!Id$I~j	Basic	les_bases_du français	ils	ellos	
+zr:MM@t}b,	Basic	les_bases_du français	elles	ellas	
+C*D=]2@{R4	Basic	les_bases_du français	je suis	yo soy / yo estoy	
+m[r2%Z5igu	Basic	les_bases_du français	tu es	tú eres / tú estás	
+"Edv>P]VmS#"	Basic	les_bases_du français	il est	él es / él está	
+z.Rr/IOl9	Basic	les_bases_du français	elle est	ella es / ella está	
+qn`ovw9!@j	Basic	les_bases_du français	on est	se es / se está / uno es / uno está / somos / estamos (informal)	
+i%N>8)u8t=	Basic	les_bases_du français	nous sommes	nosotros/as somos / nosotros/as estamos	
+JxH[)wdk]k	Basic	les_bases_du français	vous êtes	ustedes son / ustedes están / vosotros/as sois / vosotros/as estáis / usted es / usted está (formal)	
+"DYQMuA;#Q>"	Basic	les_bases_du français	ils sont	ellos son / ellos están	
+pC=X~ox$9{	Basic	les_bases_du français	elles sont	ellas son / ellas están	
+hzcLcNI}9z	Basic	les_bases_du français	"j&#x27;ai"	yo he / yo tengo	
+FmjQk]]937	Basic	les_bases_du français	tu as	tú has / tú tienes	
+nl8zHlbcaG	Basic	les_bases_du français	il a	él ha / él tiene	
+B7NAi(Cmeg	Basic	les_bases_du français	elle a	ella ha / ella tiene	
+fGm}(,]Pf}	Basic	les_bases_du français	on a	se ha / se tiene / uno ha / uno tiene / hemos / tenemos (informal)	
+et;1rFxr7@	Basic	les_bases_du français	nous avons	nosotros/as hemos / nosotros/as tenemos	
+AOS4pW++=w	Basic	les_bases_du français	vous avez	ustedes han / ustedes tienen / vosotros/as habéis / vosotros/as tenéis / usted ha / usted tiene (formal)	
+AxttB^@vd<	Basic	les_bases_du français	ils ont	ellos han / ellos tienen	
+H,f}XUu!{x	Basic	les_bases_du français	elles ont	ellas han / ellas tienen	
+JZYg+`>xr1	Cloze	les_bases_du français	{{c1::Le}} livre est sur la table. (El libro está sobre la table.)		
+PSZ9TLVMze	Cloze	les_bases_du français	"J&#x27;ai {{c1::un}} stylo rouge. (Tengo un bolígrafo rojo.)"		
+cz]8Fneaxn	Cloze	les_bases_du français	{{c1::La}} voiture est bleue. (El coche es azul.)		
+lI?7.BkReD	Cloze	les_bases_du français	Elle mange {{c1::une}} pomme. (Ella come una manzana.)		
+I}_kiVdbZW	Cloze	les_bases_du français	"{{c1::L&#x27;}}ami de Paul est sympa. (El amigo de Paul es simpático.)"		
+Pbzlax^6_0	Cloze	les_bases_du français	Ce sont {{c1::des}} chaises. (Son sillas.)		
+h:ry6Hx&0q	Cloze	les_bases_du français	"J&#x27;aime {{c1::les}} chiens. (Me gustan los perros.)"		
+"Guf>-_e#rf"	Cloze	les_bases_du français	{{c1::Un}} homme et {{c2::une}} femme. (Un hombre y una mujer.)		
+h+!epJ2y/]	Cloze	les_bases_du français	"{{c1::L&#x27;}}eau est froide. (El agua está fría.)"		
+"N@#n2K^^s)"	Cloze	les_bases_du français	{{c1::Les}} enfants jouent. (Los niños juegan.)		
+nk/&4%+jg8	Cloze	les_bases_du français	Le chat est {{c1::sur}} la table. (El gato está sobre la mesa.)		
+f@S:0dZWIl	Cloze	les_bases_du français	Je vais {{c1::à}} Paris. (Voy a París.)		
+FwYfUwZpeS	Cloze	les_bases_du français	Le livre est {{c1::dans}} le sac. (El libro está en la bolsa.)		
+DA0f!j{y+T	Cloze	les_bases_du français	"C&#x27;est un cadeau {{c1::pour}} toi. (Es un regalo para ti.)"		
+e/TDQK!o6)	Cloze	les_bases_du français	Il parle {{c1::avec}} son ami. (Él habla con su amigo.)		
+AP-Di|g]U`	Cloze	les_bases_du français	Un café {{c1::sans}} sucre. (Un café sin azúcar.)		
+Ma>x@;das7	Cloze	les_bases_du français	Je suis {{c1::en}} France. (Estoy en Francia.)		
+fK/,N<RqBa	Cloze	les_bases_du français	Le stylo {{c1::de}} Marie. (El bolígrafo de María.)		
+F@pWuH4HYP	Cloze	les_bases_du français	Je travaille {{c1::pour}} apprendre. (Trabajo para aprender.)		
+Bj7.(}f}{s	Cloze	les_bases_du français	Elle voyage {{c1::en}} train. (Ella viaja en tren.)		
+uZ^Gb9w=T-	Cloze	les_bases_du français	"J&#x27;aime le chocolat {{c1::et}} la vanille. (Me gusta el chocolate y la vainilla.)"		
+"q%ASq&9#lA"	Cloze	les_bases_du français	Tu veux du thé {{c1::ou}} du café ? (¿Quieres té o café?)		
+HL67!xV)~w	Cloze	les_bases_du français	Il est petit {{c1::mais}} fort. (Es pequeño pero fuerte.)		
+kV8_5V$t/,	Cloze	les_bases_du français	Chien {{c1::et}} chat. (Perro y gato.)		
+rrOB?_?$s:	Cloze	les_bases_du français	Rouge {{c1::ou}} bleu ? (¿Rojo o azul?)		
+P9&!Xe(~t&	Cloze	les_bases_du français	{{c1::Je}} parle français. (Yo hablo francés.)		
+1<kRs_WFy	Cloze	les_bases_du français	{{c1::Tu}} manges une pomme. (Tú comes una manzana.)		
+tyP[9sv8L;	Cloze	les_bases_du français	{{c1::Il}} est grand. (Él es alto.)		
+bTynQwkfmO	Cloze	les_bases_du français	{{c1::Elle}} a un chat. (Ella tiene un gato.)		
+rRNJet:0?k	Cloze	les_bases_du français	En France, {{c1::on}} mange bien. (En Francia, se come bien / comemos bien.)		
+s8^bI:uH{D	Cloze	les_bases_du français	{{c1::Nous}} sommes amis. (Nosotros somos amigos.)		
+hq|a8g1EJ.	Cloze	les_bases_du français	{{c1::Vous}} avez un livre. (Usted tiene / Ustedes tienen / Vosotros tenéis un libro.)		
+Hp+iL~4Xoe	Cloze	les_bases_du français	{{c1::Ils}} regardent la télé. (Ellos ven la tele.)		
+KPuCkmR?Qv	Cloze	les_bases_du français	{{c1::Elles}} parlent espagnol. (Ellas hablan español.)		
+vsz}6hgtMC	Cloze	les_bases_du français	"{{c1::J&#x27;}}aime Paris. (Me gusta París.)"		
+IhS*H6/B8b	Cloze	les_bases_du français	Je {{c1::suis}} content. (Yo estoy contento.)		
+DRBDTRI[~m	Cloze	les_bases_du français	Tu {{c1::es}} étudiant ? (¿Tú eres estudiante?)		
+s}b{MD)$<h	Cloze	les_bases_du français	Marie {{c1::est}} intelligente. (María es inteligente.)		
+Ck2)fGS!rD	Cloze	les_bases_du français	Nous {{c1::sommes}} à la maison. (Nosotros estamos en casa.)		
+LJu]p|raDj	Cloze	les_bases_du français	Vous {{c1::êtes}} fatigué. (Usted está cansado / Ustedes están cansados / Vosotros estáis cansados.)		
+"I#j[UfYzZ8"	Cloze	les_bases_du français	Ils {{c1::sont}} grands. (Ellos son altos.)		
+kwl-*s((eA	Cloze	les_bases_du français	Elle {{c1::est}} espagnole. (Ella es española.)		
+BC:0@mxik?	Cloze	les_bases_du français	On {{c1::est}} samedi. (Es sábado / Estamos a sábado.)		
+"upi_qq#RNR"	Cloze	les_bases_du français	Les enfants {{c1::sont}} ici. (Los niños están aquí.)		
+M8<UacQPua	Cloze	les_bases_du français	Je ne {{c1::suis}} pas triste. (No estoy triste.)		
+t[_|0I%CFs	Cloze	les_bases_du français	"J&#x27;{{c1::ai}} un frère. (Yo tengo un hermano.)"		
+dAFoL3Bq[X	Cloze	les_bases_du français	Tu {{c1::as}} quel âge ? (¿Qué edad tienes tú?)		
+Fp$C0f;w=q	Cloze	les_bases_du français	Il {{c1::a}} une voiture rouge. (Él tiene un coche rojo.)		
+I:CI3SJ.QE	Cloze	les_bases_du français	Elle {{c1::a}} faim. (Ella tiene hambre.)		
+sn@q1F.,_]	Cloze	les_bases_du français	On {{c1::a}} soif. (Tenemos sed / Uno tiene sed.)		
+z=G3X6~h?o	Cloze	les_bases_du français	Nous {{c1::avons}} des amis. (Nosotros tenemos amigos.)		
+x1$7,MK.83	Cloze	les_bases_du français	"Vous {{c1::avez}} l&#x27;heure ? (¿Usted tiene la hora? / ¿Ustedes tienen la hora? / ¿Vosotros tenéis la hora?)"		
+M+wx.XoZt2	Cloze	les_bases_du français	Ils {{c1::ont}} deux chiens. (Ellos tienen dos perros.)		
+xw)RI:&]c,	Cloze	les_bases_du français	Elles {{c1::ont}} des stylos. (Ellas tienen bolígrafos.)		
+hxk>2$b4?_	Cloze	les_bases_du français	"Tu n&#x27;{{c1::as}} pas de soeur ? (¿No tienes hermana?)"		
