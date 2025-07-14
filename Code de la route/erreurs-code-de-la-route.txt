@@ -1,0 +1,196 @@
+#separator:tab
+#html:true
+#notetype:Basic
+#deck:Errores codigo de la ruta
+
+# --- Règle : Calcul de la distance d'arrêt ---
+Comment calculer approximativement la distance d'arrêt sur sol sec ?	En prenant le chiffre des dizaines de la vitesse (en km/h) et en le multipliant par lui-même.
+Quelle est la distance d'arrêt approximative à 30 km/h sur sol sec ?	Environ 9 mètres (3x3).
+Quelle est la distance d'arrêt approximative à 50 km/h sur sol sec ?	Environ 25 mètres (5x5).
+Pour calculer (approximativement) la distance d'arrêt sur sol sec, on prend le chiffre des dizaines de la vitesse et on le multiplie par [...].	Pour calculer (approximativement) la distance d'arrêt sur sol sec, on prend le chiffre des dizaines de la vitesse et on le multiplie par lui-même.
+À 90 km/h, la distance d'arrêt approximative sur sol sec est d'environ [...] mètres.	À 90 km/h, la distance d'arrêt approximative sur sol sec est d'environ 81 mètres.
+
+# --- Règle : Dépassement d'un cycliste et ligne continue ---
+Ai-je le droit de franchir (traverser avec les 4 roues) une ligne continue pour dépasser un cycliste ?	Non, le franchissement est strictement interdit.
+Ai-je le droit de chevaucher une ligne continue pour dépasser un cycliste ?	Oui, c'est autorisé à condition que la visibilité soit bonne et qu'aucun usager n'arrive en face.
+Quelle est la différence légale entre "chevaucher" et "franchir" une ligne continue ?	Chevaucher, c'est rouler sur la ligne (autorisé pour dépasser un cycliste). Franchir, c'est passer entièrement de l'autre côté (interdit).
+Pour dépasser un cycliste, il est autorisé de [...] une ligne continue, mais il est interdit de la [...].	Pour dépasser un cycliste, il est autorisé de chevaucher une ligne continue, mais il est interdit de la franchir.
+Quelle distance latérale de sécurité minimale dois-je laisser en dépassant un cycliste hors agglomération ?	1,50 mètre.
+Pour dépasser un cycliste hors agglomération, je dois laisser un intervalle latéral d'au moins [...].	Pour dépasser un cycliste hors agglomération, je dois laisser un intervalle latéral d'au moins 1,50 mètre.
+
+# --- Règle : Sortie d'autoroute manquée ---
+Que dois-je faire si j'arrive au niveau de la voie de sortie (panneau de position) et que je ne me suis pas encore inséré ?	Il est trop tard, je ne dois pas freiner brusquement ni faire d'écart. Je dois continuer jusqu'à la prochaine sortie.
+Est-il prudent de suivre le camion pour prendre la sortie PERPIGNAN alors que la ligne de dissuasion est déjà présente ?	Non, il est trop tard et dangereux. Il faut prendre la sortie suivante.
+Si je rate ma sortie sur l'autoroute, je dois continuer jusqu'à la [...].	Si je rate ma sortie sur l'autoroute, je dois continuer jusqu'à la prochaine sortie.
+
+# --- Règle : Feux de jour (diurnes) ---
+Sur une voiture récente, quels feux sont allumés lorsque le commutateur est en position "0" ou "AUTO" en plein jour ?	Les feux diurnes (ou feux de jour).
+Quel est le rôle principal des feux diurnes ?	Rendre le véhicule plus visible pour les autres usagers pendant la journée, même par beau temps.
+Les feux de jour (diurnes) remplacent-ils les feux de croisement quand la luminosité baisse ?	Non, il faut manuellement (ou via le mode AUTO) allumer les feux de croisement.
+En plein jour, si le commutateur est sur la position AUTO, ce sont les [...] qui fonctionnent.	En plein jour, si le commutateur est sur la position AUTO, ce sont les feux diurnes qui fonctionnent.
+
+# --- Règle : Permis B et remorque ---
+Avec un permis B, quel est le Poids Total Autorisé en Charge (PTAC) maximal d'une remorque que je peux toujours tracter, quelle que soit la voiture ?	750 kg.
+Sous quelle condition puis-je tracter une remorque de plus de 750 kg de PTAC avec un permis B ?	À condition que la somme des PTAC de la voiture et de la remorque ne dépasse pas 3 500 kg.
+Avec un permis B, est-ce que je peux conduire un véhicule de 2000 kg de PTAC attelé d'une remorque de 1000 kg de PTAC ?	Oui, car la somme des PTAC (2000 + 1000 = 3000 kg) est inférieure à 3500 kg.
+Avec un permis B, si le PTAC de la remorque est supérieur à 750 kg, la somme des PTAC (voiture + remorque) ne doit pas dépasser [...].	Avec un permis B, si le PTAC de la remorque est supérieur à 750 kg, la somme des PTAC (voiture + remorque) ne doit pas dépasser 3 500 kg.
+Le permis B autorise toujours à tracter une remorque dont le PTAC ne dépasse pas [...].	Le permis B autorise toujours à tracter une remorque dont le PTAC ne dépasse pas 750 kg.
+
+# --- Règle : Récupération d'un point de permis ---
+Au bout de combien de temps un seul point perdu sur le permis de conduire est-il récupéré automatiquement ?	6 mois.
+Quelle est la condition indispensable pour récupérer automatiquement un seul point en 6 mois ?	Ne commettre aucune nouvelle infraction entraînant un retrait de point durant cette période de 6 mois.
+Que se passe-t-il si je perds un nouveau point durant la période de 6 mois pour récupérer le premier point ?	Le délai de récupération passe à 2 ans à compter de la date du dernier retrait de point.
+Si je perds 1 seul point sur mon permis, je le récupèrerai automatiquement au bout de [...] mois.	Si je perds 1 seul point sur mon permis, je le récupèrerai automatiquement au bout de 6 mois.
+Pour récupérer un point en 6 mois, je ne dois commettre aucune nouvelle infraction entraînant [...] durant cette période.	Pour récupérer un point en 6 mois, je ne dois commettre aucune nouvelle infraction entraînant un retrait de point durant cette période.
+
+#-- ─────────────────────────────────────────────────────────────────────────────
+# --- images from 11 to 19 ---
+
+# --- Règle : Immatriculation des remorques ---
+À partir de quel Poids Total Autorisé en Charge (PTAC) une remorque doit-elle avoir son propre certificat d'immatriculation (carte grise) ?	À partir d'un PTAC supérieur à 500 kg.
+Si une remorque a un PTAC de 450 kg, quelle plaque d'immatriculation doit-elle porter ?	Elle doit porter la même plaque d'immatriculation que le véhicule qui la tracte.
+Une remorque doit avoir sa propre carte grise si son PTAC est supérieur à [...].	Une remorque doit avoir sa propre carte grise si son PTAC est supérieur à 500 kg.
+Si le PTAC d'une remorque est inférieur ou égal à 500 kg, sa plaque d'immatriculation peut être [...] et doit être identique à celle du véhicule tracteur.	Si le PTAC d'une remorque est inférieur ou égal à 500 kg, sa plaque d'immatriculation peut être amovible et doit être identique à celle du véhicule tracteur.
+
+# --- Règle : Définition du PTAC et PTRA ---
+Que signifie l'acronyme PTAC ?	Poids Total Autorisé en Charge.
+Quelle est la définition du PTAC (Poids Total Autorisé en Charge) ?	C'est le poids maximum du véhicule seul, incluant le conducteur, les passagers et le chargement.
+Le poids d'une remorque est-il inclus dans le PTAC du véhicule ?	Non, le PTAC concerne le véhicule seul. Le poids maximum avec remorque est le PTRA (Poids Total Roulant Autorisé).
+Le PTAC d'un véhicule est son poids maximum autorisé [...] remorque.	Le PTAC d'un véhicule est son poids maximum autorisé sans remorque.
+Le poids maximal d'un ensemble (véhicule + remorque) est indiqué par le [...].	Le poids maximal d'un ensemble (véhicule + remorque) est indiqué par le PTRA.
+
+# --- Règle : Limiteur de vitesse des poids lourds ---
+Quelle est la vitesse maximale, par construction, d'un camion de plus de 3,5 tonnes ?	90 km/h.
+Pourquoi les camions de plus de 3,5 tonnes ne peuvent-ils généralement pas dépasser 90 km/h, même sur autoroute ?	Car ils sont équipés d'un limiteur de vitesse non réglable qui bloque leur vitesse à 90 km/h (sauf en descente).
+Le limiteur de vitesse des poids lourds de plus de 3,5 tonnes est réglé à [...].	Le limiteur de vitesse des poids lourds de plus de 3,5 tonnes est réglé à 90 km/h.
+
+# --- Règle : Conduite Supervisée ---
+Quelles sont les 3 conditions pour accéder à la conduite supervisée ?	Avoir 18 ans minimum, avoir obtenu le code, et avoir réalisé au moins 20 heures de conduite en auto-école.
+Quel est l'âge minimum pour la conduite supervisée ?	18 ans.
+La conduite supervisée est-elle possible si l'on n'a pas encore fait 20h de conduite ?	Non, un minimum de 20 heures de conduite avec un moniteur est obligatoire.
+Pour commencer la conduite supervisée, il faut avoir au moins [...] ans.	Pour commencer la conduite supervisée, il faut avoir au moins 18 ans.
+L'un des prérequis pour la conduite supervisée est d'avoir effectué au minimum [...] de conduite en auto-école.	L'un des prérequis pour la conduite supervisée est d'avoir effectué au minimum 20 heures de conduite en auto-école.
+
+# --- Règle : Usagers considérés comme piétons ---
+Quels usagers, parmi les cyclistes, les rollers et les trottinettes, sont considérés comme des piétons ?	Les utilisateurs de rollers et de trottinettes.
+Un cycliste est-il considéré comme un piéton par le Code de la route ?	Non, un cycliste est un conducteur de véhicule.
+Une personne en fauteuil roulant est-elle assimilée à un piéton ?	Oui, tout comme les personnes à rollers ou à trottinette.
+Les personnes se déplaçant à rollers ou en trottinette sont considérées comme des [...].	Les personnes se déplaçant à rollers ou en trottinette sont considérées comme des piétons.
+
+# --- Règle : Acuité visuelle pour la conduite ---
+Quelle est l'acuité visuelle minimale requise pour être autorisé à conduire ?	5/10 pour l'ensemble des deux yeux.
+L'exigence de 5/10 d'acuité visuelle pour conduire s'applique-t-elle à chaque oeil individuellement ?	Non, elle s'applique à l'ensemble des deux yeux (vision binoculaire).
+Pour conduire, mon acuité visuelle, après correction si besoin, doit être au minimum de [...].	Pour conduire, mon acuité visuelle, après correction si besoin, doit être au minimum de 5/10 pour l'ensemble des 2 yeux.
+
+# --- Règle : Panne de carburant ---
+Est-on verbalisé pour le simple fait de tomber en panne de carburant ?	Non, on est verbalisé pour l'arrêt ou le stationnement dangereux ou gênant que cette panne provoque.
+Pourquoi risque-t-on une amende pour une panne d'essence sur l'autoroute ?	Parce que s'immobiliser sur la bande d'arrêt d'urgence est considéré comme un arrêt dangereux, ce qui est verbalisable.
+Tomber en panne de carburant sur [...] est passible d'une amende car l'immobilisation est considérée comme un arrêt dangereux.	Tomber en panne de carburant sur l'autoroute est passible d'une amende car l'immobilisation est considérée comme un arrêt dangereux.
+On ne risque généralement pas d'amende pour une panne de carburant sur une route nationale, à condition de ne pas créer un [...].	On ne risque généralement pas d'amende pour une panne de carburant sur une route nationale, à condition de ne pas créer un arrêt ou stationnement dangereux ou gênant.
+
+#-- ─────────────────────────────────────────────────────────────────────────────
+
+# images from 19 to 29
+
+# --- Règle : Sas vélo (Cyclist Box) ---
+Ai-je le droit, en voiture, de m'arrêter dans l'espace zébré devant un feu rouge, appelé "sas vélo" ?	Non, cet espace est strictement réservé aux cyclistes et deux-roues. Je dois m'arrêter avant la première ligne.
+Quelle est la fonction d'un sas vélo ?	C'est un espace réservé aux cyclistes pour leur permettre de se positionner devant les autres véhicules à un feu rouge et de démarrer en toute sécurité.
+En présence d'un sas pour cyclistes, un automobiliste doit s'arrêter avant la [...] ligne d'effet du feu.	En présence d'un sas pour cyclistes, un automobiliste doit s'arrêter avant la première ligne d'effet du feu.
+Le sas vélo est un espace [...] aux cyclistes et autres deux-roues.	Le sas vélo est un espace exclusivement destiné aux cyclistes et autres deux-roues.
+
+# --- Règle : Assurance "Dommages Collision" ---
+La garantie "dommages collision" couvre-t-elle les dégâts de mon véhicule si je suis seul en cause dans un accident (ex: sortie de route) ?	Non, elle ne fonctionne que si un tiers est identifié (autre véhicule, animal dont le propriétaire est retrouvé, etc.).
+Quelle est la condition principale pour que la garantie "dommages collision" s'applique si je suis responsable ?	Il doit y avoir un tiers identifié impliqué dans l'accident.
+Pour être couvert pour un accident où je suis seul responsable, comme une sortie de route, je dois avoir souscrit une assurance [...].	Pour être couvert pour un accident où je suis seul responsable, comme une sortie de route, je dois avoir souscrit une assurance "tous accidents" ou "tous risques".
+La garantie "dommages collision" est une garantie facultative qui me couvre si je suis responsable, à condition qu'un [...] soit identifié.	La garantie "dommages collision" est une garantie facultative qui me couvre si je suis responsable, à condition qu'un tiers soit identifié.
+
+# --- Règle : Carnet d'entretien ---
+Quelles sont les deux principales fonctions du carnet d'entretien ?	Il indique le détail des révisions effectuées et il permet de mieux vendre son véhicule en prouvant son bon entretien.
+Le carnet d'entretien contient-il des instructions pour effectuer des réparations soi-même, comme changer une roue ?	Non, il sert à tracer l'historique des interventions professionnelles.
+Un carnet d'entretien complet et à jour est un atout pour la [...] d'un véhicule.	Un carnet d'entretien complet et à jour est un atout pour la revente d'un véhicule.
+Le [...] indique le détail des révisions réalisées sur le véhicule.	Le carnet d'entretien indique le détail des révisions réalisées sur le véhicule.
+
+# --- Règle : Position Latérale de Sécurité (PLS) ---
+Dans quel cas précis doit-on mettre une victime en Position Latérale de Sécurité (PLS) ?	Uniquement si la personne est inconsciente MAIS qu'elle respire.
+Que faire si une victime est inconsciente et ne respire PAS ?	Ne pas la mettre en PLS, alerter les secours et commencer immédiatement un massage cardiaque (réanimation cardio-pulmonaire).
+Je place une victime en PLS si elle est [...] et si elle [...].	Je place une victime en PLS si elle est inconsciente et si elle respire.
+Si une victime ne respire pas, je ne la mets pas en [...] et j'alerte immédiatement les secours.	Si une victime ne respire pas, je ne la mets pas en PLS et j'alerte immédiatement les secours.
+
+# --- Règle : Sanctions pour excès de vitesse ---
+Pour un excès de vitesse de 45 km/h au-dessus de la limite autorisée (ex: 175 km/h pour 130 km/h), quelles sont les deux sanctions principales ?	Un retrait de 4 points et une suspension du permis de conduire.
+Combien de points perd-on pour un excès de vitesse compris entre 40 et 50 km/h ?	4 points.
+À partir de quel excès de vitesse la confiscation du véhicule devient-elle une sanction possible ?	À partir d'un excès de vitesse de 50 km/h ou plus.
+Un excès de vitesse de 40 à 49 km/h au-dessus de la limite est sanctionné par un retrait de [...] points.	Un excès de vitesse de 40 à 49 km/h au-dessus de la limite est sanctionné par un retrait de 4 points.
+Rouler à 175 km/h sur une autoroute limitée à 130 km/h m'expose à une perte de 4 points et à une [...].	Rouler à 175 km/h sur une autoroute limitée à 130 km/h m'expose à une perte de 4 points et à une suspension de permis.
+
+# --- Règle : Feux de position ---
+Quel est l'unique rôle des feux de position ?	Permettre d'être vu, mais pas de voir.
+Les feux de position sont-ils suffisants pour circuler dans un tunnel, même bien éclairé ?	Non, leur puissance est insuffisante. Il faut utiliser au minimum les feux de croisement.
+Le voyant des feux de position est un soleil ou une ampoule de couleur [...].	Le voyant des feux de position est un soleil ou une ampoule de couleur verte.
+Les feux de position permettent d'être bien [...] mais sont insuffisants pour bien [...].	Les feux de position permettent d'être bien vu mais sont insuffisants pour bien voir.
+
+# --- Règle : Stationnement pour véhicules électriques ---
+Que signifie le panneau "Stationnement interdit SAUF véhicule électrique" ?	Que seuls les véhicules électriques peuvent stationner à cet emplacement, et uniquement le temps de leur recharge.
+Puis-je laisser mon véhicule électrique stationné toute la journée sur un emplacement de recharge ?	Non, le stationnement n'est autorisé que le temps nécessaire pour recharger la batterie.
+Le stationnement aux bornes de recharge est réservé aux véhicules électriques pour la [...] de la recharge.	Le stationnement aux bornes de recharge est réservé aux véhicules électriques pour la durée de la recharge.
+
+# -- ─────────────────────────────────────────────────────────────────────────────
+
+# --- Règle : Dépassement en file ---
+Sur une route à double sens, ai-je le droit de commencer à dépasser en suivant une voiture qui est déjà en train de le faire ?	Non, c'est formellement interdit et extrêmement dangereux.
+Pourquoi est-il interdit de suivre un véhicule qui dépasse sur une chaussée à double sens ?	Car ce véhicule masque totalement la vue sur les usagers arrivant en face, rendant la manœuvre aveugle.
+Il est interdit de suivre une voiture qui dépasse sur une chaussée à [...].	Il est interdit de suivre une voiture qui dépasse sur une chaussée à double sens.
+Le fait de dépasser "en file" sur une route à double sens est à la fois [...] et [...].	Le fait de dépasser "en file" sur une route à double sens est à la fois dangereux et interdit.
+
+# --- Règle : Désembuage / Dégivrage ---
+Quels sont les deux dispositifs les plus efficaces pour éliminer rapidement la buée sur la lunette arrière ?	Le dégivrage de la lunette arrière et la climatisation.
+Comment fonctionne le dégivrage de la lunette arrière ?	Il chauffe des filaments résistifs intégrés dans la vitre pour faire fondre le givre ou évaporer la buée.
+Comment la climatisation aide-t-elle au désembuage ?	Elle assèche l'air à l'intérieur du véhicule, ce qui fait disparaître la buée rapidement sur toutes les vitres.
+Le bouton de dégivrage arrière et la [...] sont très efficaces contre la buée mais augmentent la consommation de carburant.	Le bouton de dégivrage arrière et la climatisation sont très efficaces contre la buée mais augmentent la consommation de carburant.
+Pour faire disparaître la buée, j'active le dégivrage ou la [...] qui a pour effet d'assécher l'air.	Pour faire disparaître la buée, j'active le dégivrage ou la climatisation qui a pour effet d'assécher l'air.
+
+# --- Règle : Panneau de lieu-dit et balise de passage à niveau ---
+Quelle est la différence entre un panneau d'agglomération (fond blanc) et un panneau de lieu-dit (fond noir) ?	Le panneau d'agglomération impose une limite de vitesse de 50 km/h, alors que le panneau de lieu-dit est seulement informatif et ne change pas la limitation de vitesse.
+Que signifie une balise de passage à niveau avec deux bandes rouges ?	Elle annonce un passage à niveau situé à environ 100 mètres.
+Un panneau de lieu-dit (nom sur fond noir) m'oblige-t-il à rouler à 50 km/h ?	Non, la limitation de vitesse en cours reste applicable.
+Chaque bande rouge sur une balise de danger ferroviaire représente une distance de [...] mètres.	Chaque bande rouge sur une balise de danger ferroviaire représente une distance de 50 mètres.
+Une balise avec 3 bandes rouges annonce un passage à niveau à [...] mètres.	Une balise avec 3 bandes rouges annonce un passage à niveau à 150 mètres.
+
+# --- Règle : Passage à niveau non protégé ---
+Que signale le panneau triangulaire avec une locomotive ?	Un passage à niveau sans barrières ni demi-barrières.
+L'arrêt est-il obligatoire à l'approche d'un passage à niveau signalé par le panneau "locomotive", en l'absence de panneau STOP ?	Non, l'arrêt n'est pas obligatoire si aucun train n'approche, mais il faut ralentir fortement et être prêt à s'arrêter.
+Un passage à niveau annoncé par ce panneau (locomotive) est un passage à niveau [...].	Un passage à niveau annoncé par ce panneau (locomotive) est un passage à niveau non protégé.
+Face à un passage à niveau sans barrières, je dois [...] et m'assurer qu'aucun train n'arrive avant de m'engager.	Face à un passage à niveau sans barrières, je dois ralentir et m'assurer qu'aucun train n'arrive avant de m'engager.
+
+# --- Règle : Délai pour le changement de carte grise ---
+De quel délai est-ce que je dispose pour faire le changement de propriétaire sur la carte grise après avoir acheté un véhicule ?	Je dispose d'un délai de 1 mois.
+Quel est le délai pour déclarer un changement d'adresse sur sa carte grise suite à un déménagement ?	1 mois.
+Après l'achat d'un véhicule, je dois faire établir le certificat d'immatriculation à mon nom dans un délai de [...].	Après l'achat d'un véhicule, je dois faire établir le certificat d'immatriculation à mon nom dans un délai de 1 mois.
+Dépasser le délai de 1 mois pour le changement de la carte grise m'expose à une [...] en cas de contrôle.	Dépasser le délai de 1 mois pour le changement de la carte grise m'expose à une amende.
+
+# -- ─────────────────────────────────────────────────────────────────────────────
+
+# --- Règle : Croix de Saint-André (Passage à niveau) ---
+Que signifie une simple Croix de Saint-André positionnée juste avant un passage à niveau ?	Elle indique que le passage à niveau ne comporte qu'une seule voie ferrée.
+Que signifie une double Croix de Saint-André (deux croix superposées ou une croix avec un chevron) ?	Elle indique que le passage à niveau comporte plusieurs voies ferrées.
+La Croix de Saint-André donne-t-elle une information sur la présence de barrières ?	Non, elle indique uniquement le nombre de voies à traverser. L'information sur les barrières est donnée par le panneau de danger en amont.
+Une double Croix de Saint-André m'informe que je vais traverser [...].	Une double Croix de Saint-André m'informe que je vais traverser plusieurs voies de chemin de fer.
+La Croix de Saint-André est une balise de position qui informe sur le [...] de voies ferrées.	La Croix de Saint-André est une balise de position qui informe sur le nombre de voies ferrées.
+
+# --- Règle : Ajustement de la ceinture de sécurité ---
+Sur quelles parties dures du corps la ceinture de sécurité doit-elle reposer pour être efficace ?	Sur les os du bassin pour la sangle inférieure, et sur la clavicule pour la sangle supérieure.
+Pourquoi la sangle supérieure de la ceinture ne doit-elle jamais être placée sur le cou ?	Car en cas de choc, elle pourrait provoquer de graves blessures. Elle doit reposer au milieu de la clavicule.
+Une ceinture de sécurité correctement ajustée est en contact avec les [...] et la [...].	Une ceinture de sécurité correctement ajustée est en contact avec les os du bassin et la clavicule.
+La partie basse de la ceinture de sécurité doit être placée sur les os du [...] et non sur le ventre.	La partie basse de la ceinture de sécurité doit être placée sur les os du bassin et non sur le ventre.
+
+# --- Règle : Vitesse en période probatoire ---
+Sur une route à double sens sans séparateur central, limitée à 90 km/h, quelle est la vitesse maximale pour un conducteur en période probatoire ?	80 km/h.
+Une route où les sens de circulation sont séparés par une simple ligne continue est-elle considérée comme une "route à chaussées séparées" ?	Non, une route à chaussées séparées nécessite un terre-plein central, une glissière de sécurité ou un muret.
+En période probatoire, ma vitesse est limitée à [...] sur les routes où la vitesse maximale autorisée est de 90 km/h.	En période probatoire, ma vitesse est limitée à 80 km/h sur les routes où la vitesse maximale autorisée est de 90 km/h.
+Sur autoroute limitée à 130 km/h, un conducteur en période probatoire doit circuler à [...] maximum.	Sur autoroute limitée à 130 km/h, un conducteur en période probatoire doit circuler à 110 km/h maximum.
+
+# --- Règle : Infractions entraînant une suspension de permis ---
+Citez trois infractions pouvant entraîner une suspension du permis de conduire allant jusqu'à 3 ans.	Le franchissement d'une ligne continue, un changement de direction sans avertir (sans clignotant), ou le non-respect des intervalles de sécurité.
+Est-ce qu'un excès de vitesse de 20 km/h est sanctionné par une suspension de permis ?	Non, cette infraction entraîne un retrait de points mais généralement pas une suspension de permis.
+Le non-respect des distances de sécurité, le franchissement d'une ligne continue ou l'oubli du clignotant sont des fautes pouvant mener à une [...].	Le non-respect des distances de sécurité, le franchissement d'une ligne continue ou l'oubli du clignotant sont des fautes pouvant mener à une suspension de permis.
+Parmi les infractions graves, le [...] d'une ligne continue peut être sanctionné par une suspension de permis de 3 ans.	Parmi les infractions graves, le franchissement d'une ligne continue peut être sanctionné par une suspension de permis de 3 ans.
