@@ -42,3 +42,9 @@ Les distances d'arrêt : la distance d'arrêt est égale à la somme de la {{c1:
 Conduite de nuit : adapter sa vitesse à la {{c1::visibilité}} offerte par les feux, éviter de regarder les {{c2::phares des véhicules venant en face}}, utiliser les {{c3::feux de route}} uniquement lorsqu'on est {{c4::seul}}, et les {{c5::baisser 150 mètres}} avant de croiser un autre véhicule.	
 
 Conduite sur route mouillée : augmenter les {{c1::distances de sécurité}}, réduire sa {{c2::vitesse}}, éviter les {{c3::coups de volant brusques}} et les {{c4::freinages brutaux}}, être attentif aux risques d'{{c5::aquaplanage}} et privilégier le {{c6::frein moteur}}.
+
+Le {{c1::sous-régime}} se produit lorsque le moteur tourne {{c2::trop lentement}} pour le rapport de vitesse engagé, provoquant des {{c3::vibrations}} et un manque de puissance, tandis que le {{c4::surrégime}} se produit lorsque le moteur tourne {{c5::trop vite}}, risquant d'endommager le {{c6::moteur}} et augmentant la {{c7::consommation}}.	
+
+La {{c1::chaussée}} est la partie de la route sur laquelle les véhicules {{c2::circulent}}, tandis que l'{{c3::accotement}} est la bande latérale, stabilisée ou non, qui n'est {{c4::pas destinée à la circulation}} mais peut servir pour un {{c5::arrêt d'urgence}}.	
+
+
